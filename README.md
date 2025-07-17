@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mgraczyk-json-query-mcp-badge.png)](https://mseep.ai/app/mgraczyk-json-query-mcp)
+
 # JSON Query MCP
 
 A Model Context Protocol (MCP) server for querying large JSON files.
